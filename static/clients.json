@@ -1,0 +1,29 @@
+[
+    {
+        "clientID": "GVicario32",
+        "password": "gh4ae6jhj2",
+        "name": "Guillermo",
+        "lastname": "Vicario",
+        "email": "guillermo.vicario@gmail.com",
+        "tel": "",
+        "adress": ""
+    },
+    {
+        "clientID": "EPastor51",
+        "password": "kg2l1db3a",
+        "name": "Emilio",
+        "lastname": "Pastor",
+        "email": "emilio.pastor@gmail.com",
+        "tel": "",
+        "adress": ""
+    },
+    {
+        "clientID": "EMiravalles67",
+        "password": "gr4ae64hjp",
+        "name": "Eugenio",
+        "lastname": "Miravalles",
+        "email": "eugmiravalles@gmail.com",
+        "tel": "+54 9 3364379499",
+        "adress": "Almafure 233"
+    }
+]

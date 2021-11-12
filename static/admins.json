@@ -1,0 +1,38 @@
+[
+    {
+        "adminID": "MUnzue25",
+        "password": "azulyjuanma2001",
+        "name": "Miguel",
+        "lastname": "Unzue",
+        "email": "miguel.unzue@gmail.com",
+        "tel": "",
+        "adress": ""
+    },
+    {
+        "adminID": "VSantos",
+        "password": "VSMarq97",
+        "name": "Victor",
+        "lastname": "Santos",
+        "email": "vsmarq@gmail.com",
+        "tel": "",
+        "adress": ""
+    },
+    {
+        "adminID": "SMiretti35",
+        "password": "foster123",
+        "name": "Soledad",
+        "lastname": "Miretti",
+        "email": "vsmarqsm@gmail.com",
+        "tel": "",
+        "adress": ""
+    },
+    {
+        "adminID": "JMulet28",
+        "password": "curuchet123",
+        "name": "Jose",
+        "lastname": "Mulet",
+        "email": "jose.mulet@gmail.com",
+        "tel": "+54 9 3369379499",
+        "adress": "Almafuerte 233"
+    }
+]

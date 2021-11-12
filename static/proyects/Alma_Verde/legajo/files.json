@@ -1,0 +1,12 @@
+[
+    {
+        "name": "escalera.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Alma_Verde/legajo/escalera.jpg",
+        "message": ""
+    },
+    {
+        "name": "presidentes.jpeg",
+        "url": "http://localhost:4000/api/v1/uploads/Alma_Verde/legajo/presidentes.jpeg",
+        "message": "asdsada"
+    }
+]
